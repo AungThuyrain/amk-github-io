@@ -1,6 +1,6 @@
 # Aung Myo Kyaw - website 
 # aung-io
-# url_www.amk@githun.com
+# url_www.amk@github.com
 # url_www.amk.com
 
 #1 Website Page --
