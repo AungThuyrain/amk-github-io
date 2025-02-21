@@ -1,11 +1,11 @@
-# Yellow Myanmar Network Server 
+# Aung Myo Kyaw - website 
 # aung-io
-# url_www.aung@githun.com
-# url_www.aung.com
+# url_www.amk@githun.com
+# url_www.amk.com
 
 #1 Website Page --
 
-[ymnsv.com ](https://github.com/.aung-io/index.html)
+[amk.com ](https://github.com/.aung-io/index.html)
 
 #2 connect me
 
