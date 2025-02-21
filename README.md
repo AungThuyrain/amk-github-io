@@ -1,5 +1,5 @@
 # Aung Myo Kyaw - website 
-# aung-io
+# amk-io
 # url_www.amk@github.com
 # url_www.amk.com
 
