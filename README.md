@@ -1,2 +1,2 @@
-# ymnsever.io
+# ymnserver.io
 -- Website Page --
